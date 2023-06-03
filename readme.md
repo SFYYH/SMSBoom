@@ -1,3 +1,11 @@
+# BIGBOOM!!!!
+
+![2](1\2.jpg)
+
+
+
+![2](1\1.jpg)
+
 ```python
 import requests
 import sys
@@ -220,3 +228,4 @@ if __name__ == '__main__':
     # getBoomLog()
     menu()
 ```
+
