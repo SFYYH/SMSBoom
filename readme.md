@@ -1,6 +1,6 @@
 # BIGBOOM!!!!
 
-![2](1\2.jpg)
+![2](SMSBoom\1\2.jpg)
 
 
 
