@@ -1,10 +1,10 @@
 # BIGBOOM!!!!
 
-![2](SMSBoom\1\2.jpg)
+![2](/1/2.jpg)
 
 
 
-![2](1\1.jpg)
+![2](1/1.jpg)
 
 ```python
 import requests
